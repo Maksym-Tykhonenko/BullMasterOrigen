@@ -3,7 +3,7 @@ workflows:
     name: Bull Master
     max_build_duration: 120
     integrations:
-      app_store_connect: BullMasterQuestAPIKey
+      app_store_connect: BullMasterQuestAPIKeyNew
     environment:
       ios_signing:
         distribution_type: app_store
